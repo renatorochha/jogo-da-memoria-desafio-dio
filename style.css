@@ -4,10 +4,13 @@
     box-sizing: border-box;
 }
 
-body {
-    height: 100vh;
+body {   
     display: flex;
-    background-color: rgb(188, 248, 228);
+    background-image: url('./img/cenario3.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+    width: 100%;
 }
 
 .memory-game {
